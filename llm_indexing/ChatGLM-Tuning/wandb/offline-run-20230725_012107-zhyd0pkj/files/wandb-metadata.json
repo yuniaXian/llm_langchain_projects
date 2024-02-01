@@ -1,0 +1,50 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.11.4",
+    "heartbeatAt": "2023-07-24T17:21:07.284353",
+    "startedAt": "2023-07-24T17:21:07.181524",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "E:\\code\\chatglm\\ChatGLM-Tuning\\finetune_adapter.py",
+    "codePath": "finetune_adapter.py",
+    "git": {
+        "remote": "https://github.com/mymusise/ChatGLM-Tuning.git",
+        "commit": "997393046a49510e6cda36962f9a399297959311"
+    },
+    "email": null,
+    "root": "E:/code/chatglm/ChatGLM-Tuning",
+    "host": "WY-20230411FNEJ",
+    "username": "Administrator",
+    "executable": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "cpu_count": 24,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 3000.0,
+        "min": 0.0,
+        "max": 3000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3000.0,
+            "min": 0.0,
+            "max": 3000.0
+        }
+    ],
+    "disk": {
+        "total": 500.00194931030273,
+        "used": 61.30424880981445
+    },
+    "gpu": "NVIDIA RTX A6000",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA RTX A6000",
+            "memory_total": 51527024640
+        }
+    ],
+    "memory": {
+        "total": 127.74705123901367
+    }
+}

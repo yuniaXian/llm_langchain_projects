@@ -1,0 +1,22 @@
+python main.py ^
+    --do_train ^
+    --train_file E:\code\chatglm\ChatGLM-Tuning\data\wenlv_token ^
+    --prompt_column content ^
+    --response_column summary ^
+    --overwrite_cache ^
+    --model_name_or_path E:\code\chatglm\chatglm2 ^
+    --output_dir output/adgen-chatglm2-pt-128 ^
+    --overwrite_output_dir ^
+    --max_source_length 64 ^
+    --max_target_length 64 ^
+    --per_device_train_batch_size 1 ^
+    --per_device_eval_batch_size 1 ^
+    --gradient_accumulation_steps 16 ^
+    --predict_with_generate ^
+    --max_steps 3000 ^
+    --logging_steps 10 ^
+    --save_steps 1000 ^
+    --learning_rate 2e-2 ^
+    --quantization_bit 4 ^
+    --remove_unused_columns False
+

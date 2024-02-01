@@ -1,0 +1,8 @@
+1. Clarification about when a payment will be required, possibly in response to a message indicating that payment is not currently needed.
+2. Seeking information about the billing date associated with a card transaction.
+3. Requesting information about an upcoming due date for a payment or bill.
+4. Inquiring about the due date for a specific payment.
+5. Expressing concern and seeking assistance with a missing or possibly overdue card, as well as a request for card information.
+6. Requesting information about the end date of a pay period, likely related to employment or income.
+7. Mentioning or referring to a due date without providing additional context.
+8. Seeking clarification or questioning the information related to a due date, possibly due to conflicting information or expectations.
