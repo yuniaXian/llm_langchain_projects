@@ -1,1 +1,0 @@
-python finetune_freeze.py 
