@@ -1,6 +1,6 @@
 # llm_langchain_projects
 
-Collection of llm_langchain_projects: Autolabelling, Search and Indexing
+llm_langchain_projects: Autolabelling, Search and Indexing
 
 
 ## Auto labelling Pipeline
