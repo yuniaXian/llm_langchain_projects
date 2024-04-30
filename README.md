@@ -2,6 +2,9 @@
 
 llm_langchain_projects: Autolabelling, Search and Indexing
 
+## LLama2-70B-chat Finetune data process workflow
+![llm_data_preparation](image/README//llm_data_prepare.png)
+
 
 ## Auto labelling Pipeline
 
